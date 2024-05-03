@@ -11,6 +11,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
+ <h1>💻 Tech Stack : Aspiring Front-end devloper. </h1>
+
+
 <!---
 Rahullchaudharyy/Rahullchaudharyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
