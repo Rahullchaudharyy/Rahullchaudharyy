@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=Rahullchaudharyy&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+
+
 - 👋 Hi, I’m @Rahullchaudharyy
 - 👀 I’m interested in coding and solve the problems
 - 🌱 I’m currently learning Front-end-dev.
