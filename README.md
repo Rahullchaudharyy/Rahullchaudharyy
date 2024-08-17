@@ -22,10 +22,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="28" />
-
 </p>
-
 
 <hr></hr>
 
-  ![snake gif](https://github.com/Rahullchaudharyy/Rahullchaudharyy/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Rahullchaudharyy/Rahullchaudharyy/blob/output/github-contribution-grid-snake.gif)
