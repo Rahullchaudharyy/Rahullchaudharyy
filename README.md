@@ -25,5 +25,4 @@
 </p>
 
 <hr></hr>
-
-//![snake gif](https://github.com/Rahullchaudharyy/Rahullchaudharyy/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Rahullchaudharyy/Rahullchaudharyy/blob/output/github-contribution-grid-snake.gif) -->
