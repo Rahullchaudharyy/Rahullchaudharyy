@@ -9,7 +9,7 @@
 
 👋 Hi, I’m **@Rahullchaudharyy**  
 👀 I’m passionate about coding and problem-solving.  
-🌱 Currently honing my skills in Front-end Development & Backend Both.  
+🌱 Currently honing my skills in Full-Stack.  
 📫 Reach me on [LinkedIn](your-linkedin-url).  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I enjoy diving deep into code challenges and exploring new technologies.
